@@ -506,7 +506,7 @@ This repository contains my solutions to "LeetCode" problems using mainly javasc
     </td>
     <td>
       <a
-        href="https://github.com/ChadiToto/LeetCode/blob/master/XofaKindinaDeckofCards/index.js"
+        href="https://github.com/ChadiToto/LeetCode/blob/master/XofaKindinaDeckofCards%23914/index.js"
         >Link</a
       >
     </td>
